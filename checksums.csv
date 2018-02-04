@@ -1,0 +1,17 @@
+file,sha256sum,comment
+instantclient-basic-linux-12.2.0.1.0.zip,32f5a53bdaf65e87b176a68fa0097e2a5249952be6f4afc3e0ef80345591a9cf,
+instantclient-basic-linux.x64-12.2.0.1.0.zip,5015e3c9fba84e009f7519893f798a1622c37d1ae2c55104ff502c52a0fe5194,
+instantclient-basiclite-linux-12.2.0.1.0.zip,59ac886186063e27046c7a3d2641bb54592b47588ab3e5a6307b75d17e23289c,
+instantclient-basiclite-linux.x64-12.2.0.1.0.zip,1c3adb36f9605aae84ae98461bd6ee9eb26b303cace3f5534cd7985d470d0494,
+instantclient-jdbc-linux-12.2.0.1.0.zip,c630ce7a4005bb354bf5c49744ec658046670d03b1064363aabf6a8a9f43eae7,
+instantclient-jdbc-linux.x64-12.2.0.1.0.zip,1a18fcaa41984bc0499a3d3138843292550a5606556217adb47ddc59caa7a0fa,
+instantclient-odbc-linux-12.2.0.1.0.zip,d6794428265756c72074c46d1fcb66f45d79600cb80954d7203c84b9fc0b7055,
+instantclient-odbc-linux.x64-12.2.0.1.0.zip,ead4f196080125114c6eb0c773f516c832bd55435b5eaba2fc9362dd0742f78b,
+instantclient-precomp-linux-12.2.0.1.0.zip,5bce89112723389b4f62b1c381878cd57d2f8cd109f98126a4222c0e46411499,
+instantclient-precomp-linux.x64-12.2.0.1.0.zip,c4822b95f70d2bab5eb3ef2111e6fedc2c3112d5c514ac5ec3804a6dbaf46176,
+instantclient-sdk-linux-12.2.0.1.0.zip,38aa0c3961d44bec4819e04de1ab0642f2e9ec92dbbad327a7935224c7239d8b,
+instantclient-sdk-linux.x64-12.2.0.1.0.zip,7f404c3573c062ce487a51ac4cfe650c878d7edf8e73b364ec852645ed1098cb,
+instantclient-tools-linux-12.2.0.1.0.zip,8fae4cc5b74924be262513c3988655dabbe90c7092ec5c40a98dc2869212a514,tools=wrc
+instantclient-tools-linux.x64-12.2.0.1.0.zip,9c5674a89bb4aad619fe0691a06d8984e5c0d450f2b895db975302dddc15e215,tools=wrc
+instantclient-sqlplus-linux-12.2.0.1.0.zip,c289ceaa6196e44a6e85d7342c9440b25c237018f6a1bdadb72d7cc2075f504c,
+instantclient-sqlplus-linux.x64-12.2.0.1.0.zip,d49b2bd97376591ca07e7a836278933c3f251875c215044feac73ba9f451dfc2,
